@@ -13,7 +13,7 @@ namespace CalculatorWithDelegates
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-                    fonts.AddFont("CookieCrisp-L36ly.ttf", "CookieCrisp");
+                    fonts.AddFont("CookieCrisp.ttf", "CookieCrisp");
                 });
 
 #if DEBUG
